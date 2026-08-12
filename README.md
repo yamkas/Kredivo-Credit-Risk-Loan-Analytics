@@ -2,7 +2,7 @@
 
 Perusahaan fintech lending seperti Kredivo menghadapi tantangan dalam menjaga keseimbangan antara **pertumbuhan penyaluran pinjaman dan kualitas portofolio kredit**. Peningkatan jumlah serta nilai pinjaman dapat meningkatkan potensi pendapatan perusahaan, tetapi pada saat yang sama juga meningkatkan exposure terhadap risiko gagal bayar.
 
-Berdasarkan dataset yang tersedia, terdapat **50.000 data pinjaman** dengan informasi mengenai karakteristik peminjam, kondisi finansial, karakteristik pinjaman, serta status gagal bayar. Dari keseluruhan data tersebut, terdapat **9.863 pinjaman atau sekitar 19,73%** yang tercatat mengalami gagal bayar.
+Berdasarkan dataset sintesis yang dipakai, terdapat **50.000 data pinjaman** dengan informasi mengenai karakteristik peminjam, kondisi finansial, karakteristik pinjaman, serta status gagal bayar. Dari keseluruhan data tersebut, terdapat **9.863 pinjaman atau sekitar 19,73%** yang tercatat mengalami gagal bayar.
 
 Kondisi tersebut menunjukkan adanya kebutuhan untuk memahami **karakteristik borrower dan karakteristik pinjaman yang berkaitan dengan risiko gagal bayar**, sehingga perusahaan dapat mengidentifikasi kelompok dengan tingkat risiko yang relatif lebih tinggi.
 
